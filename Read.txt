@@ -1,0 +1,23 @@
+1- Download And Install (xampp)
+2- Download And Install (Git bash)
+
+How to start
+1- you should setup smtp - message settings in ./setting/Gx.settings.php
+2- put your letter - mails in ./file
+3- open git terminal in script path
+4- write (C:\xampp\php\php.exe GX40.php) and start sending
+
+
+Format letter:
+            ##email## : replace the contents of the letter to show the recipient's email
+            ##subject## : Using random subject
+            ##frommail## : Using random From mail
+            ##fromname## : Using random From name
+            ##short## : Using random your URL 
+            ##country## : Using random country around the world
+            ##date## : Using date time. (NOT RANDOM)
+            ##country## : Using random country around the world
+            ##date## : Using date time. (NOT RANDOM)
+            ##OS## : Using random Operating Systems
+            ##browser## : Using random Browsers
+Regards
